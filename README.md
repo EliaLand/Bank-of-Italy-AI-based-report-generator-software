@@ -19,9 +19,4 @@ Once data is retrieved, the software offers intuitive data plotting functionalit
 The core feature of the Bank of Italy AI-Based Report Generator software is its AI-powered article summarization capabilities. Leveraging the advanced capabilities of ChatGPT 4.0 (Da Vinci 2.0), the software scrapes real-time articles from various sources based on specified topics. It then processes these articles to generate concise and informative summaries, enabling users to stay informed with the latest news and make data-driven decisions with ease. With its seamless integration of data retrieval, plotting, and AI-powered summarization, the Bank of Italy AI-Based Report Generator software is poised to revolutionize the way reports are generated and insights are derived. Thank you for your interest in our project, and we look forward to your exploration and feedback.
 
 ## Acknowledgments:
-
-
-
-
-
-
+We acknowledge the support of Elia Landini (Pantheon-Sorbonne University) in the development of this project.
