@@ -1,0 +1,14 @@
+streamlit
+Pillow
+requests
+pandas
+matplotlib
+seaborn
+openai 
+reportlab
+schedule
+requests-html
+jpstat
+wbgapi
+fredapi
+lxml
